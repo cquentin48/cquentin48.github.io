@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-tsx-2b353d1db423aa3e7a13.js","mappings":"2GAAe,SAASA,IACtB,MAAO,cACT,C","sources":["webpack://portfolio/./src/pages/404.tsx"],"sourcesContent":["export default function Component () {\n  return \"Unknown page\"\n}\n"],"names":["Component"],"sourceRoot":""}

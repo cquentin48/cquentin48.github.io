@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[218],{2513:function(n,o,t){function u(){return"Unknown page"}t.r(o),t.d(o,{default:function(){return u}})}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-2b353d1db423aa3e7a13.js.map
